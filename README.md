@@ -8,3 +8,4 @@
 - i3-gaps
 - compton
 - feh
+- i3blocks
