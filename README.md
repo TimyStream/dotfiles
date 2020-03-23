@@ -9,3 +9,8 @@
 - compton
 - feh
 - i3blocks
+
+### Also Needed
+- lxappearance
+- Arc Dark Theme
+- Moka Icons
