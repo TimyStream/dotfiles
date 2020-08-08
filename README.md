@@ -1,16 +1,9 @@
-# dotfiles
+# Welcome to my Dotfiles
+## In this repository you will find any of my Dotfiles for all the Windowmanager's i used or i'm using.
 
-### Dependencies:
-- Rofi
-- zsh
-- oh my zsh (https://github.com/ohmyzsh/ohmyzsh)
-- i3
-- i3-gaps (https://launchpad.net/~kgilmer/+archive/ubuntu/speed-ricer)
-- compton
-- feh
-- i3blocks
+### Every Branch is one Pack of dotfiles for the Branch named Window manager or Desktop.
 
-### Also Needed
-- lxappearance
-- Arc Dark Theme (https://github.com/horst3180/arc-theme)
-- Moka Icons (https://snwh.org/moka/download)
+#### These Window Managers are Online:
+- i3 <strong>///</strong> i3-gaps
+- Openbox
+- Gnome <strong>///</strong> My Terminal Server Setup
