@@ -1,9 +1,18 @@
-# Welcome to my Dotfiles
-## In this repository you will find any of my Dotfiles for all the Window manager's i used or i'm using.
+# My Linux Openbox Setup
 
-### Every Branch is one Pack of dotfiles for the Branch named Window manager or Desktop.
-
-#### These Window Managers are Online:
-- i3 <strong>///</strong> i3-gaps
+### Dependencies:
+- Rofi
+- xfce4 Terminal
+- tint2
+- compton
+- materia-gtk-theme (https://github.com/nana-4/materia-theme)
+- Arc Icon Theme
 - Openbox
-- Gnome <strong>///</strong> My Terminal Server Setup
+- obmenu-generator
+- Equilux-compact (https://www.box-look.org/p/1381658)
+- zsh
+- oh my zsh (https://github.com/ohmyzsh/ohmyzsh)
+- Powerline Patched Font: "Monospace"
+- nitrogen
+
+## German Keyboard is set in the Autostart! Change if needed!
