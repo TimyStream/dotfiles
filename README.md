@@ -1,4 +1,4 @@
-# dotfiles
+# These are my Dotfiles for the I3 Desktop
 
 ### Dependencies:
 - Rofi
