@@ -1,7 +1,7 @@
 # dotfiles
 
 ### Dependencies:
-- Rufi
+- Rofi
 - zsh
 - oh my zsh (https://github.com/ohmyzsh/ohmyzsh)
 - i3
