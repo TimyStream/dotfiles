@@ -1,4 +1,4 @@
-# These are my Dotfiles for the I3 Desktop
+# These are my Dotfiles for the i3 / i3-gaps Window Manager under Linux
 
 ### Dependencies:
 - Rofi
