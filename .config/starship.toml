@@ -2,7 +2,7 @@
 # comment for sheme
 add_newline = true
 
-format="\\[$username$hostname\\] \\[$directory\\] [➜](bold bright-green) "
+format="\\[$os\\]\\[$username$hostname\\]\\[$localip\\] \\[$directory\\] [➜](bold bright-green) "
 
 [username]
 format = '[$user]($style) '
@@ -16,3 +16,18 @@ disabled = false
 
 [directory]
 format='[$path]($style)[$read_only]($read_only_style)'
+
+[os]
+format = '[$symbol]($style)'
+style = 'bold cyan'
+disabled = false
+
+[os.symbols]
+Windows = ""
+Debian = ""
+
+[localip]
+ssh_only = false
+format = '[$localipv4]($style)'
+style = 'bold white'
+disabled = false
