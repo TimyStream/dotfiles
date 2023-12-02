@@ -25,6 +25,8 @@ disabled = false
 [os.symbols]
 Windows = ""
 Debian = ""
+Macos = ""
+Ubuntu = ""
 
 [localip]
 ssh_only = false
